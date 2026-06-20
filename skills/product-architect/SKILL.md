@@ -1,5 +1,5 @@
 ---
-name: Product Architect
+name: product-architect
 description: SaaS product strategy, feature planning, user flows, business logic, and scalable product architecture.
 ---
 

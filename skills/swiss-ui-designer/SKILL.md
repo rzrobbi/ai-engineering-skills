@@ -1,5 +1,5 @@
 ---
-name: Swiss UI Designer
+name: swiss-ui-designer
 description: Swiss International Style UI/UX design, clean interfaces, dashboard design, typography, and user experience.
 ---
 

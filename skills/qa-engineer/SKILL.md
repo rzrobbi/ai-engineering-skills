@@ -1,5 +1,5 @@
 ---
-name: QA Engineer
+name: qa-engineer
 description: Testing, bug prevention, edge case detection, quality assurance, and production validation.
 ---
 

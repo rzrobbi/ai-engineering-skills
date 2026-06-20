@@ -1,5 +1,5 @@
 ---
-name: Database Architect
+name: database-architect
 description: Database schema design, PostgreSQL, Supabase, migrations, optimization, indexing, and data modeling.
 ---
 

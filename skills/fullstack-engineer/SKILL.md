@@ -1,5 +1,5 @@
 ---
-name: Full Stack Engineer
+name: fullstack-engineer
 description: Production frontend, backend, API development, clean architecture, and scalable software engineering.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Security Engineer
+name: security-engineer
 description: Secure coding, OWASP, authentication, authorization, SaaS security, API protection, and production hardening.
 ---
 

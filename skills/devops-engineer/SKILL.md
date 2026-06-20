@@ -1,5 +1,5 @@
 ---
-name: DevOps Engineer
+name: devops-engineer
 description: Deployment, CI/CD, infrastructure, monitoring, production readiness, reliability, and automation.
 ---
 
